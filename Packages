@@ -1,0 +1,17 @@
+Package: me.lau.atria
+Version: 1.4.1-17baseline1
+Architecture: iphoneos-arm64
+Maintainer: Local build
+Installed-Size: 936
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: debs/me.lau.atria_1.4.1-17baseline1_iphoneos-arm64.deb
+Size: 232996
+MD5sum: 3fe3797dfd73c5d9d94d08f1dd607ac3
+SHA1: d5c72d05d3f885f3f56957a93793e63c1f6e399f
+SHA256: bab689339a9a9b3bac89c4ec599a69f1681055612423796852c53aece2c8cb74
+Section: Tweaks
+Description: Atria iOS 17 source-build baseline (not yet validated on device)
+Author: ren7995
+Name: Atria
+
