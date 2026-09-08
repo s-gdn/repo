@@ -1,15 +1,15 @@
 Package: me.lau.atria
-Version: 1.4.1-sgdnfix
+Version: 1.4.1-sgdnfix2
 Architecture: iphoneos-arm64
 Maintainer: s-gdn
 Installed-Size: 936
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: debs/me.lau.atria_1.4.1-sgdnfix_iphoneos-arm64.deb
-Size: 233090
-MD5sum: 5631b9265cbbb31241c9601186446681
-SHA1: 3f9268317b52005ead4916bdff6be8fe0092bb91
-SHA256: 326aa39fc4da9b625cbe4d587a110172a57a52fe0a40e95a2a8765c28776148a
+Filename: debs/me.lau.atria_1.4.1-sgdnfix2_iphoneos-arm64.deb
+Size: 233140
+MD5sum: 0d03f780eda0155ef97defb4bfc65d19
+SHA1: 7e4d87650370b96f8c0bc354116be1abbafa8a26
+SHA256: ee0c161bffea6d01125b4804beb11fc3cafd12d8755690e15c2b542591849494
 Section: Tweaks
 Description: Unofficial Atria fork by s-gdn to fix editor functionality on iOS 17. No more safe mode crashes.
  .
